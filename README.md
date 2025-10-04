@@ -32,7 +32,8 @@ MITRE ATT&CK, TTPs, Incident Response Lifecycle (PICERL), Cyber Kill Chain, Acti
 ## Certifications
 <div>
   <img src="https://img.shields.io/badge/-SC200-1B63AD0?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SumoFundamentals-000098?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-AZ900-1B63AD?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SumoFundamentals-000098?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AttackIQMITRE-6541d5?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-SplunkAnalyst-F47420?&style=for-the-badge&logoColor=white" />
 </div>
